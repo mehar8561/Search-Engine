@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/mehar/Downloads/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="/Users/mehar/Downloads/stanford-corenlp-4.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/mehar/Downloads/stanford-corenlp-4.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/mehar/Downloads/stanford-corenlp-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/mehar/Downloads/stanford-corenlp-4.3.2/stanford-corenlp-4.3.2-models.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
